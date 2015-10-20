@@ -1,5 +1,4 @@
 
-
 # READ DATA FROM GITHUB
 
 library( RCurl )
@@ -120,4 +119,3 @@ text( 80, 18, "No vote on amendment", cex=0.7, pos=4  )
 
 text( 80, 15, "Voted Obama 2008", cex=0.7, pos=4, col="blue" )
 text( 80, 13, "Voted McCain 2008", cex=0.7, pos=4, col="red" )
-
