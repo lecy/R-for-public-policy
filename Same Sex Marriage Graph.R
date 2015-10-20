@@ -91,7 +91,7 @@ segments( x0=70, y0=0, y1=51, col="gray", lty=3 )
 
 
 
-# points( poll.2011, 51:1, col=col.vec.amendment, pch=pch.amendment )
+points( poll.2011, 51:1, col=col.vec.amendment, pch=pch.amendment )
 
 points( poll.2004, 51:1, col=col.vec.amendment, pch=pch.amendment )
 
