@@ -103,7 +103,7 @@ segments( x0=poll.2011, x1=poll.2004, y0=51:1, col=col.vec.amendment, lty=1 )
 
 text( poll.2011, 51:1, state.name, pos=4, cex=0.6, col=col.vec.party )
 
-text( c( (poll.2004[1]+2), poll.2011[1]), c(54,54), c("2011","2004"), cex=0.8 )
+text( c( (poll.2004[1]), poll.2011[1]), c(54,54), c("2004","2011"), cex=0.8 )
 
 
 
